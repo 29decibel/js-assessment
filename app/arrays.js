@@ -46,6 +46,7 @@ define(function() {
     },
 
     insert : function(arr, item, index) {
+       // http://stackoverflow.com/questions/586182/javascript-insert-item-into-array-at-a-specific-index
        arr.splice(index,0,item);
        return arr;
     },
