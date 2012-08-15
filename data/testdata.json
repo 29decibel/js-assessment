@@ -1,9 +1,9 @@
 {
   "people" : [
-    { "name" : "Matt" },
-    { "name" : "Rebecca" },
-    { "name" : "Paul" },
+    { "name" : "Adam" },
     { "name" : "Alex" },
-    { "name" : "Adam" }
+    { "name" : "Matt" },
+    { "name" : "Paul" },
+    { "name" : "Rebecca" }
   ]
 }
